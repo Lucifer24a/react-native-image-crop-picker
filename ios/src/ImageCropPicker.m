@@ -65,7 +65,7 @@ RCT_EXPORT_MODULE();
             @"avoidEmptySpaceAroundImage": @YES,
             @"compressImageQuality": @0.8,
             @"compressVideoPreset": @"MediumQuality",
-            @"loadingLabelText": @"Processing assets...",
+            @"loadingLabelText": @"アップロード中...",
             @"mediaType": @"any",
             @"showsSelectedCount": @YES,
             @"forceJpg": @NO,
